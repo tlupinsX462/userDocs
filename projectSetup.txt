@@ -1,0 +1,11 @@
+create a file in a local repository
+using github desktop
+
+open github desktop
+sign in to your github account if not already
+
+if the first time splash screen is shown then clone a repository
+click the clone option and use the clone with URL
+
+you can get the URL(https) in github.com from the repository page
+by clicking the clone button on the code tab of the page
