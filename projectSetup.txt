@@ -1,11 +1,37 @@
-create a file in a local repository
-using github desktop
+list of steps to get setup to use the repositories
 
-open github desktop
-sign in to your github account if not already
+1. choose a folder on you machine to work on repository files
+   documents/git/ is suggested. or documents/git/repos/robot101/
+   the location of the folder can be anywhere you like
+   using the root folder is not recommended
+   remember this location
+   this is where you will clone a repository.
 
-if the first time splash screen is shown then clone a repository
-click the clone option and use the clone with URL
+2. get the github desktop application from https://desktop.github.com/
+   download and install the application.
 
-you can get the URL(https) in github.com from the repository page
-by clicking the clone button on the code tab of the page
+3. after installation the app will ask you to sign into your github account
+   the application cannot work without connecting to your github account
+   after signing in to your account from github desktop application, you
+   will be asked to choose one of three options
+   there is no way around this, you can't start using the app until you choose an option
+   chose the "clone a repository" option
+   next step you will have to log into github.com to get a repository address.
+
+4. log into github.com website and go to the repository page that you want to clone
+   click the green colored "clone repository" button on the right side of page
+   a dialog opens with the address and a clipboard icon
+   use HTTPS option for the address and click the icon to copy the address
+   go back to github desktop application.
+
+5. back at the github desktop application, choose a location to clone to with the dialog
+   navigate to the location you chose in in step 3
+   click "clone repository"
+
+6. the repository is now visible in the github desktop application
+
+
+
+   paste the address of the remote repository
+
+3. get to your github main page by clicking any text with you user name in the
