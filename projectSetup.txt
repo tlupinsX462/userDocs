@@ -12,17 +12,17 @@ list of steps to get setup to use the repositories
 
 3. after installation the app will ask you to sign into your github account
    the application cannot work without connecting to your github account
-   after signing in to your account from github desktop application, 
+   after signing in to your account from github desktop application,
    you will be asked to choose one of three options
    there is no way around this, you can't start using the app until you choose an option
    chose the "clone a repository" option
-   next step you will have to log into github.com to get a repository address.
+   next step you will need to log into github.com to get a repository address.
 
 4. log into github.com website and go to your github main page by clicking any text of your user name
-   this will bring you to your main github page 
+   this will bring you to your main github page
    click on the repositories tab to show a list of repositories
-   go to the repository page that you want to clone
-   click the green colored "clone repository" button on the right side of page 
+   go/click to the repository page that you want to clone
+   click the green colored "clone repository" button on the right side of page
    a dialog opens with the address and a clipboard icon
    use HTTPS option for the address and click the icon to copy the address
    go back to github desktop application.
@@ -32,5 +32,5 @@ list of steps to get setup to use the repositories
    paste the url that was copied from github.com clone operation in step 4 into the dialog
    click "clone repository"
    the repository is now visible in the github desktop application
-   
-6. from github desktop application menu - install the command line tool and the stom editor
+
+6. from github desktop application menu - install the command line tool and the atom editor
