@@ -34,3 +34,7 @@ list of steps to get setup to use the repositories
    the repository is now visible in the github desktop application
 
 6. from github desktop application menu - install the command line tool and the atom editor
+
+7. in the github app choose menu item repository and open in atom. atom will show the files in a
+   navigation pane. choose the file you want to edit in the navigation pane and the test will
+   show in the editing window
