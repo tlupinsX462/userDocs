@@ -1,4 +1,4 @@
-after you have loged into github.com and setup up the github desktop application
+after you have logged into github.com and setup up the github desktop application
 with command line tool and the atom editor you are ready to edit files and push
 them to the remote repository
 
@@ -11,5 +11,5 @@ application tool clipboard and choose your branch from the drop down
 with the branch you want to edit checked out, click on the repository item in
 the menu and choose open in atom
 
-atom edditor open with a navigation pane on the left showing your repository files
+atom editor open with a navigation pane on the left showing your repository files
 choose a file and start editing. save the file and return to github desktop application
